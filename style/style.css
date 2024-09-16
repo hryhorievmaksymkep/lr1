@@ -11,7 +11,9 @@
     font-family: 'Nexa';
 }
 body{
-    background: #000;
+    background: #121212;
+;
+    ;
     font-family: nexa;
 }
 
@@ -53,7 +55,8 @@ body{
     width: 100%;
     border:none;
     font-size: 18px;
-    background-color: #000;
+    background-color: #121212;
+    ;
 }
 .input-data input:focus ~ label,
 .input-data input:valid ~ label{
